@@ -14,7 +14,7 @@
 # define MINIRT_H
 # include <math.h>
 # include "keycode.h"
-# include "./mlx_apple/mlx.h"
+// # include "./mlx/mlx.h"
 # include "./libft/libft.h"
 # include "./parser/parser.h"
 
